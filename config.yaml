@@ -1,4 +1,5 @@
 baseurl: "https://benjamin-williams.github.io"
+publishDir: "docs"
 languageCode: "en-us"
 title: "Ben Williams"
 theme: "hugo-xmin"
